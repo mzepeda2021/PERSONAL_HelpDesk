@@ -1,0 +1,35 @@
+[18-Aug-2021 22:38:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Conectar' not found in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php:2
+Stack trace:
+#0 /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/index.php(4): require_once()
+#1 {main}
+  thrown in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[18-Aug-2021 22:38:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Conectar' not found in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php:2
+Stack trace:
+#0 /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/index.php(4): require_once()
+#1 {main}
+  thrown in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[18-Aug-2021 22:38:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Conectar' not found in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php:2
+Stack trace:
+#0 /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/index.php(4): require_once()
+#1 {main}
+  thrown in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[18-Aug-2021 22:39:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Conectar' not found in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php:2
+Stack trace:
+#0 /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/index.php(4): require_once()
+#1 {main}
+  thrown in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[18-Aug-2021 22:39:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Conectar' not found in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php:2
+Stack trace:
+#0 /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/index.php(4): require_once()
+#1 {main}
+  thrown in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:48:59 UTC] PHP Warning:  require_once(../../config/conexion.php): failed to open stream: No such file or directory in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:48:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config/conexion.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:49:05 UTC] PHP Warning:  require_once(../../config/conexion.php): failed to open stream: No such file or directory in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:49:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config/conexion.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:49:15 UTC] PHP Warning:  require_once(../../config/conexion.php): failed to open stream: No such file or directory in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:49:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config/conexion.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:49:17 UTC] PHP Warning:  require_once(../../config/conexion.php): failed to open stream: No such file or directory in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:49:17 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config/conexion.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:50:05 UTC] PHP Warning:  require_once(../../config/conexion.php): failed to open stream: No such file or directory in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2
+[19-Aug-2021 17:50:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config/conexion.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/tlaquepa/public_html/helpdesk.tlaquepaqueescolar.com.mx/models/Usuario.php on line 2

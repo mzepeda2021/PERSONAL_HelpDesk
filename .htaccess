@@ -1,0 +1,18 @@
+Options All -Indexes
+DirectoryIndex index.php index.html
+#ErrorDocument 404 https://www.oikosplus.com/views/error/error.php
+#ErrorDocument 403 https://www.oikosplus.com/views/error/error403.php
+#RewriteEngine On
+#RewriteRule ^([-a-zA-Z0-9/]+)$
+
+#RewriteCond %{HTTP_HOST} !^$
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteCond %{HTTP_HOST} !on
+#RewriteCond (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+#asegurando el archivo htaccess
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
